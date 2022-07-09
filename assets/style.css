@@ -841,9 +841,6 @@ img{
     .footer-heart {
         margin: 8rem auto;
     }
-    .colors {
-        display: none;
-    }
 }
 /* large device */
 @media screen and (min-width: 768px){
@@ -913,6 +910,9 @@ img{
     .portfolio__content{
         align-items: center;
         margin-top: 1.75rem;
+    }
+    .colors {
+        display: none;
     }
 }
 
